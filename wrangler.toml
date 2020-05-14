@@ -1,7 +1,6 @@
-name = "img-color"
+name = "img-color-worker"
 type = "webpack"
-
-account_id = ""
+account_id = "844732ec954ba7473c90acc1f0fa7edd"
 workers_dev = true
 route = ""
 zone_id = ""

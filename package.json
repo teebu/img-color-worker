@@ -1,13 +1,13 @@
 {
-  "author": "{{ authors }}",
+  "author": "Y <junkbox0@gmail.com>",
   "version": "1.0.0",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "jpeg-js": "^0.3.5",
-    "pngjs": "^3.4.0",
-    "string-to-stream": "^1.1.1"
+    "jpeg-js": "^0.4.0",
+    "pngjs": "^5.0.0",
+    "string-to-stream": "^3.0.1"
   },
   "description": "A template for kick starting a Cloudflare Workers project",
   "main": "./index.js",
